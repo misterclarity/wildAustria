@@ -1,6 +1,6 @@
 ---
 feature:
-  enable: true
+  enable: false
   image: "/images/bike.jpg"
   image_webp: "/images/bike.webp"
   title: I help you break free from limitations so you can access your highest potential.
