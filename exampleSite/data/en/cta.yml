@@ -4,7 +4,7 @@ cta:
   bg_image: ''
   bg_image_webp: ''
   title: Viruses come and go, but memories last a lifetime.
-  content: Get in touch for a chance to participate in one of our upcoming events.
+  content: Click below for a chance to participate in one of our upcoming events.
   button:
     enable: true
     label: Get in touch
