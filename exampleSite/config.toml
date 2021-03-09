@@ -1,10 +1,10 @@
-baseURL = "https://misterclarity.com"
+baseURL = "https://spiritsplay.com"
 disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "misterclarity"
-title = "Mr. Clarity | Life Transition Coach"
+title = "Immerse yourself in Wild Austria!"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Coachpedia.](https://coachpedia.net) All Rights Reserved"
