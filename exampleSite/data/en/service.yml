@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Your Progress
   service_item:
   - name: Authenticity

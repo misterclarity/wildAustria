@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   hide_on_mobile: false
   title: The paths
   pricing_table:
