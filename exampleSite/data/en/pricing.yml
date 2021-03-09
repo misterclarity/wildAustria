@@ -1,0 +1,36 @@
+---
+pricing:
+  enable: true
+  hide_on_mobile: false
+  title: The paths
+  pricing_table:
+  - name: Awareness
+    price: ''
+    unit: 2 months
+    services:
+    - '"There is no spoon"'
+    - Expand consciousness
+    - Integrate projections
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info
+  - name: Peace
+    price: ''
+    unit: 3 months
+    services:
+    - Improve grounding and sleep
+    - Overcome anxiety & mental chatter
+    - Achieve self-compassion
+    button:
+      label: More info
+      link: https://calendly.com/misterclarity/30min
+  - name: Spirituality
+    price: ''
+    unit: 4 months
+    services:
+    - Integrate the ego
+    - Develop a meditative state
+    - Find your optimal life perspective
+    button:
+      link: https://calendly.com/misterclarity/30min
+      label: More info

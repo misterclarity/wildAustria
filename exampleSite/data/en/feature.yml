@@ -1,0 +1,24 @@
+---
+feature:
+  enable: true
+  image: "/images/bike.jpg"
+  image_webp: "/images/bike.webp"
+  title: I help you break free from limitations so you can access your highest potential.
+  content: ''
+  feature_item:
+  - title: Grounded & Open
+    icon: ti-user
+    content: I am grounded, immersed, and aware, fully in service of your evolutionary
+      and self-discovery process.
+  - title: Positive & Encouraging
+    icon: ti-thumb-up
+    content: 'It takes consistent momentum to make a change, so I support you when
+      you struggle, while acknowledging your progress. '
+  - title: Person-centered & Inspiring
+    icon: ti-move
+    content: You decide the topics, I provide the impetus!
+  - title: Collaborative & Intuitive
+    icon: ti-thought
+    content: I stay present in the conversation by listening deeply, asking clarifying
+      questions, and witnessing the essence of your words.
+  hide_on_mobile: false
