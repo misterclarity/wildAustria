@@ -1,6 +1,6 @@
 ---
 testimonial:
-  enable: true
+  enable: false
   bg_image: "/images/testimonialsbikes.jpg"
   bg_image_webp: "/images/testimonialsbikes.webp"
   testimonial_item:
