@@ -7,9 +7,9 @@ image_webp = ""
 title = "Supermarket Society"
 
 +++
-I was talking to a friend today. Her words made me think of a surprising metaphor. She mentioned struggling with the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that she wants to achieve. This is what came to my mind...
+Are you struggling with the pressure between living in a  relaxed manner (doing seemingly non-productive activities like going for walks and meeting with friends) and pursuing the many things in life that you want to achieve? Welcome to the supermarket society!
 
-We all want stuff, but a question arises: do we really want it, or is it about societal "values" or parental desires? The gap between what society is and what it could be makes me feel like we live in a supermarket:
+We all want stuff, but a question arises: do we really want it, or is it about societal "values", or external desires? The gap between what society is and what it could be feels like we live in a supermarket:
 
 1. it offers too much choice and we end up buying more than we need ("Blueberries in the winter? No problem!" | "Single mom and employee of the month? Why not?")
 2. some choices are framed as "superior" to others ("Fame and fortune always trump working with your hands in the dirt.")
