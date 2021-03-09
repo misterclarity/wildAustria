@@ -15,8 +15,9 @@ cta2:
   hide_on_mobile: false
   bg_image: ''
   bg_image_webp: ''
-  title: Coaching is a relationship.
-  content: Find out if we have the right connection during a free consultation.
+  title: Born to be wild?
+  content: Find out how to connect with your wildest dreams in one of our upcoming
+    events.
   button:
     enable: true
     label: Get in touch
